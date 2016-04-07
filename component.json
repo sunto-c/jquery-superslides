@@ -4,6 +4,6 @@
     "name": "jquery-superslides",
     "main": "jquery.superslides.js",
     "dependencies": [
-        "jquery"
+        "jquery@1.9.1"
     ]
 }
